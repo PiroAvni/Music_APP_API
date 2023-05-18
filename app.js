@@ -9,7 +9,7 @@ app.use(cors())
 app.use(express.json())
 
 app.get('/',(req,res) => {
-    res.send("The music api")
+    res.send("Avni's Music API")
 })
 
 // API endpoints
