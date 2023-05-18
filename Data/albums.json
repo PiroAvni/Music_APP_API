@@ -1,0 +1,92 @@
+[
+    {
+      "title": "Got to Be There",
+      "releaseDate": "January 24 1972",
+      "songs": [
+            {
+          "title": "Got to Be There",
+          "lyrics": "Got to be there, got to be there\nIn the morning\nWhen she says hello to the world"
+            },
+            {
+          "title": "Rockin\" Robin",
+          "lyrics": "Rockin\" Robin, tweet, tweet, tweet\nRockin\" Robin, tweet, tweet, tweet"
+            },
+            {
+          "title": "I Wanna Be Where You Are",
+          "lyrics": "I wanna be where you are\nAnywhere you are"
+            }
+        ]
+    },
+    {
+      "title": "Off the Wall",
+      "releaseDate": "August 10 1979",
+      "songs": [
+            {
+          "title": "Don\"t Stop \"Til You Get Enough",
+          "lyrics": "Don\"t stop \"til you get enough\nKeep on with the force, don\"t stop"
+            },
+            {
+          "title": "Rock with You",
+          "lyrics": "Girl, close your eyes\nLet that rhythm get into you"
+            },
+            {
+          "title": "Off the Wall",
+          "lyrics": "So tonight, gotta leave that nine to five upon the shelf\nAnd just enjoy yourself"
+            }
+        ]
+    },
+    {
+      "title": "Thriller",
+      "releaseDate": "November 30 1982",
+      "songs": [
+            {
+          "title": "Thriller",
+          "lyrics": "It\"s close to midnight\nAnd something evil\"s lurking in the dark"
+            },
+            {
+          "title": "Beat It",
+          "lyrics": "Just beat it, beat it\nNo one wants to be defeated"
+            },
+            {
+          "title": "Billie Jean",
+          "lyrics": "Billie Jean is not my lover\nShe\"s just a girl who claims that I am the one"
+            }
+        ]
+    },
+    {
+        "title": "Bad",
+        "releaseDate": "August 31 1987",
+        "songs": [
+            {
+            "title": "Bad",
+            "lyrics": "Your butt is mine\nGonna tell you right"
+            },
+            {
+            "title": "The Way You Make Me Feel",
+            "lyrics": "Hey pretty baby with the high heels on"
+            },
+            {
+            "title": "Man in the Mirror",
+            "lyrics": "I\"m starting with the man in the mirror"
+            }
+        ]
+    },
+    {
+        "title": "Dangerous",
+        "releaseDate": "November 13 1991",
+        "songs": [
+            {
+            "title": "Black or White",
+            "lyrics": "I took my baby on a Saturday bang"
+            },
+            {
+            "title": "Remember the Time",
+            "lyrics": "Do you remember\nWhen we fell in love?"
+            },
+            {
+            "title": "Dangerous",
+            "lyrics": "The way she came into the place"
+            }
+        ]
+    }
+]
